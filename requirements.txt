@@ -1,0 +1,13 @@
+av==10.0.0
+ImageHash==4.3.1
+imageio==2.22.3
+numpy==1.23.4
+Pillow==9.3.0
+progress==1.6
+pyobjc-core==8.5.1
+pyobjc-framework-Cocoa==8.5.1
+pyobjc-framework-CoreML==8.5.1
+pyobjc-framework-Quartz==8.5.1
+pyobjc-framework-Vision==8.5.1
+PyWavelets==1.4.1
+scipy==1.9.3
