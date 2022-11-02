@@ -21,3 +21,9 @@ If you wish to take this code and turn it into something more generally useful, 
 #### NOTE REGARDING NAME
 
 There is [another project called `videocr`](https://github.com/apm1467/videocr) which extracts hard-coded subtitles from videos. It's also written in Python but works cross-platform by using Tesseract (which I also tried, but it's just too slow). I may rename this project due to this, but as it's currently a prototype and the other videocr hasn't been updated in nearly three years, I'll let it sit for now.
+
+### CREDITS
+
+A huge debt goes to those who work on the amazing FFmpeg project for starters.
+
+Also thanks to [Rhet Turnbull](https://github.com/RhetTbull/) whose [code I found](https://github.com/RhetTbull/osxphotos/blob/master/osxphotos/text_detection.py) to learn about ways to call macOS's OCR routines from Python.
